@@ -11,9 +11,9 @@ public class Importer {
     }
 
     public Importer() {
-        this.name = "Kalata";
-        this.address = "Burgas";
-        this.phoneNumber = "0882020477";
+        this.name = "Saul";
+        this.address = "Better call saul";
+        this.phoneNumber = "505-842-5662";
     }
 
     public String getName() {
